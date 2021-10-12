@@ -16,3 +16,4 @@ Stm32F4	           Donanım       <br/>
 - PD15	L298N ENB	  TIM4_CH4  <br>
 - PD14	L298N ENA	  TIM4_CH3 <br>
 
+![final-photo](final_photo.jpg)
