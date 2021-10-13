@@ -16,5 +16,7 @@ Stm32F4	           Donanım       <br/>
 - PD15	L298N ENB	  TIM4_CH4  <br>
 - PD14	L298N ENA	  TIM4_CH3 <br>
 
+[Proje videosu için tıklayın!](https://drive.google.com/file/d/1z7vDsN92Ig8RMZQRaHtlpjLcWSlXltZZ/view?usp=sharing)
+
 <img src="final_photo.jpg" width="600" height="400">
 
