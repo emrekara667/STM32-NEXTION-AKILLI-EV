@@ -1,6 +1,6 @@
 # STM32-NEXTION-AKILLI-EV
 STM32F4 discovery ve 2.8 inch nextion dokunmatik ekran ile akıllı ev konsepti gercekleştirilmiştir.
-Stm32Cubeİde ve Hal library kullanılmıştır.
+Stm32CubeIDE ve Hal library kullanılmıştır.
 
 Stm32F4	           Donanım       <br/>
 - PB4	  Röle IN1	  GPIO_OUTPUT <br>
