@@ -22,9 +22,9 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "stdio.h"    // 'sprintf' kullanmak için
-#include "string.h"   // 'memset' kullanmak için
-#include <stdlib.h>   // 'atoi' kullanmak için
+#include "stdio.h"    // 'sprintf'
+#include "string.h"   // 'memset' 
+#include <stdlib.h>   // 'atoi'
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
